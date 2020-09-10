@@ -1,0 +1,6 @@
+En total hay 1 materias del programa
+El numero de materias con 1 credito son: 0 materia
+El numero de materias con 2 creditos son: 1 materias
+El numero de materias con 3 creditos son: 0 materias
+El numero de materias con 4 creditos son: 0 materias
+El numero de materias con mas de cuatro creditos son: 0 materias
